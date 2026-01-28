@@ -1,0 +1,6 @@
+@CentETE.WebApi_HostAddress = http://localhost:5033
+
+GET {{CentETE.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

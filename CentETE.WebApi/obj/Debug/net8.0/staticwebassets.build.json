@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XO7MlrJN2O1ZdIx1Fmh5Bjui+8FLOWyAcXwlOMK3zJo=",
+  "Source": "CentETE.WebApi",
+  "BasePath": "_content/CentETE.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

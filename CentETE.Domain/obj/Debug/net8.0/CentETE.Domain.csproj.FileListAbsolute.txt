@@ -1,0 +1,11 @@
+D:\Test\src\CentETE.WebApi\CentETE.Domain\bin\Debug\net8.0\CentETE.Domain.deps.json
+D:\Test\src\CentETE.WebApi\CentETE.Domain\bin\Debug\net8.0\CentETE.Domain.dll
+D:\Test\src\CentETE.WebApi\CentETE.Domain\bin\Debug\net8.0\CentETE.Domain.pdb
+D:\Test\src\CentETE.WebApi\CentETE.Domain\obj\Debug\net8.0\CentETE.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\src\CentETE.WebApi\CentETE.Domain\obj\Debug\net8.0\CentETE.Domain.AssemblyInfoInputs.cache
+D:\Test\src\CentETE.WebApi\CentETE.Domain\obj\Debug\net8.0\CentETE.Domain.AssemblyInfo.cs
+D:\Test\src\CentETE.WebApi\CentETE.Domain\obj\Debug\net8.0\CentETE.Domain.csproj.CoreCompileInputs.cache
+D:\Test\src\CentETE.WebApi\CentETE.Domain\obj\Debug\net8.0\CentETE.Domain.dll
+D:\Test\src\CentETE.WebApi\CentETE.Domain\obj\Debug\net8.0\refint\CentETE.Domain.dll
+D:\Test\src\CentETE.WebApi\CentETE.Domain\obj\Debug\net8.0\CentETE.Domain.pdb
+D:\Test\src\CentETE.WebApi\CentETE.Domain\obj\Debug\net8.0\ref\CentETE.Domain.dll

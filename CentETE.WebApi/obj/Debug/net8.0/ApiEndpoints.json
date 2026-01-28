@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "CentETE.WebApi.Controllers.StoreAPIController",
+    "Method": "Create",
+    "RelativePath": "api/StoreAPI/store",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CentETE.Application.Feartures.Store.Commands.CreateStoreCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CentETE.WebApi.Controllers.StoreAPIController",
+    "Method": "GetById",
+    "RelativePath": "api/StoreAPI/store/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CentETE.WebApi.Controllers.StoreAPIController",
+    "Method": "GetAll",
+    "RelativePath": "api/StoreAPI/stores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

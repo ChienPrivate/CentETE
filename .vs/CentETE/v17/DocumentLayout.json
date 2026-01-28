@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Test\\src\\CentETE.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C830B488-AEA9-495E-B591-4C063FEDCE54}|CentETE.Application\\CentETE.Application.csproj|d:\\test\\src\\centete.webapi\\centete.application\\feartures\\store\\queries\\getstorebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C830B488-AEA9-495E-B591-4C063FEDCE54}|CentETE.Application\\CentETE.Application.csproj|solutionrelative:centete.application\\feartures\\store\\queries\\getstorebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767D703D-BB7B-4689-AA0D-62CD0739CB7A}|CentETE.Infrastructure\\CentETE.Infrastructure.csproj|d:\\test\\src\\centete.webapi\\centete.infrastructure\\repositories\\store\\storewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767D703D-BB7B-4689-AA0D-62CD0739CB7A}|CentETE.Infrastructure\\CentETE.Infrastructure.csproj|solutionrelative:centete.infrastructure\\repositories\\store\\storewriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767D703D-BB7B-4689-AA0D-62CD0739CB7A}|CentETE.Infrastructure\\CentETE.Infrastructure.csproj|d:\\test\\src\\centete.webapi\\centete.infrastructure\\repositories\\store\\storereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767D703D-BB7B-4689-AA0D-62CD0739CB7A}|CentETE.Infrastructure\\CentETE.Infrastructure.csproj|solutionrelative:centete.infrastructure\\repositories\\store\\storereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C830B488-AEA9-495E-B591-4C063FEDCE54}|CentETE.Application\\CentETE.Application.csproj|d:\\test\\src\\centete.webapi\\centete.application\\feartures\\store\\commands\\createstorecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C830B488-AEA9-495E-B591-4C063FEDCE54}|CentETE.Application\\CentETE.Application.csproj|solutionrelative:centete.application\\feartures\\store\\commands\\createstorecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E11439-DAB2-4814-A0CE-676A1825B90B}|CentETE.WebApi\\CentETE.WebApi.csproj|d:\\test\\src\\centete.webapi\\centete.webapi\\controllers\\storeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E11439-DAB2-4814-A0CE-676A1825B90B}|CentETE.WebApi\\CentETE.WebApi.csproj|solutionrelative:centete.webapi\\controllers\\storeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C830B488-AEA9-495E-B591-4C063FEDCE54}|CentETE.Application\\CentETE.Application.csproj|d:\\test\\src\\centete.webapi\\centete.application\\feartures\\store\\commands\\createstorecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C830B488-AEA9-495E-B591-4C063FEDCE54}|CentETE.Application\\CentETE.Application.csproj|solutionrelative:centete.application\\feartures\\store\\commands\\createstorecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC74BFE-A00A-4B18-8E49-D00D06E1289B}|CentETE.Domain\\CentETE.Domain.csproj|d:\\test\\src\\centete.webapi\\centete.domain\\entities\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC74BFE-A00A-4B18-8E49-D00D06E1289B}|CentETE.Domain\\CentETE.Domain.csproj|solutionrelative:centete.domain\\entities\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C830B488-AEA9-495E-B591-4C063FEDCE54}|CentETE.Application\\CentETE.Application.csproj|d:\\test\\src\\centete.webapi\\centete.application\\feartures\\store\\queries\\getstoresqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C830B488-AEA9-495E-B591-4C063FEDCE54}|CentETE.Application\\CentETE.Application.csproj|solutionrelative:centete.application\\feartures\\store\\queries\\getstoresqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C830B488-AEA9-495E-B591-4C063FEDCE54}|CentETE.Application\\CentETE.Application.csproj|d:\\test\\src\\centete.webapi\\centete.application\\feartures\\store\\queries\\getstoresquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C830B488-AEA9-495E-B591-4C063FEDCE54}|CentETE.Application\\CentETE.Application.csproj|solutionrelative:centete.application\\feartures\\store\\queries\\getstoresquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C830B488-AEA9-495E-B591-4C063FEDCE54}|CentETE.Application\\CentETE.Application.csproj|d:\\test\\src\\centete.webapi\\centete.application\\interfaces\\store\\istorereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C830B488-AEA9-495E-B591-4C063FEDCE54}|CentETE.Application\\CentETE.Application.csproj|solutionrelative:centete.application\\interfaces\\store\\istorereadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C830B488-AEA9-495E-B591-4C063FEDCE54}|CentETE.Application\\CentETE.Application.csproj|d:\\test\\src\\centete.webapi\\centete.application\\feartures\\store\\queries\\getstorebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C830B488-AEA9-495E-B591-4C063FEDCE54}|CentETE.Application\\CentETE.Application.csproj|solutionrelative:centete.application\\feartures\\store\\queries\\getstorebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoreWriteRepository.cs",
+              "DocumentMoniker": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Infrastructure\\Repositories\\Store\\StoreWriteRepository.cs",
+              "RelativeDocumentMoniker": "CentETE.Infrastructure\\Repositories\\Store\\StoreWriteRepository.cs",
+              "ToolTip": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Infrastructure\\Repositories\\Store\\StoreWriteRepository.cs",
+              "RelativeToolTip": "CentETE.Infrastructure\\Repositories\\Store\\StoreWriteRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T12:36:52.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateStoreCommandHandler.cs",
+              "DocumentMoniker": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Application\\Feartures\\Store\\Commands\\CreateStoreCommandHandler.cs",
+              "RelativeDocumentMoniker": "CentETE.Application\\Feartures\\Store\\Commands\\CreateStoreCommandHandler.cs",
+              "ToolTip": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Application\\Feartures\\Store\\Commands\\CreateStoreCommandHandler.cs",
+              "RelativeToolTip": "CentETE.Application\\Feartures\\Store\\Commands\\CreateStoreCommandHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T13:38:16.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateStoreCommand.cs",
+              "DocumentMoniker": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Application\\Feartures\\Store\\Commands\\CreateStoreCommand.cs",
+              "RelativeDocumentMoniker": "CentETE.Application\\Feartures\\Store\\Commands\\CreateStoreCommand.cs",
+              "ToolTip": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Application\\Feartures\\Store\\Commands\\CreateStoreCommand.cs",
+              "RelativeToolTip": "CentETE.Application\\Feartures\\Store\\Commands\\CreateStoreCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T13:38:13.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Store.cs",
+              "DocumentMoniker": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Domain\\Entities\\Store.cs",
+              "RelativeDocumentMoniker": "CentETE.Domain\\Entities\\Store.cs",
+              "ToolTip": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Domain\\Entities\\Store.cs",
+              "RelativeToolTip": "CentETE.Domain\\Entities\\Store.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T13:35:15.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreReadRepository.cs",
+              "DocumentMoniker": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Infrastructure\\Repositories\\Store\\StoreReadRepository.cs",
+              "RelativeDocumentMoniker": "CentETE.Infrastructure\\Repositories\\Store\\StoreReadRepository.cs",
+              "ToolTip": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Infrastructure\\Repositories\\Store\\StoreReadRepository.cs",
+              "RelativeToolTip": "CentETE.Infrastructure\\Repositories\\Store\\StoreReadRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T13:31:19.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStoreReadRepository.cs",
+              "DocumentMoniker": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Application\\Interfaces\\Store\\IStoreReadRepository.cs",
+              "RelativeDocumentMoniker": "CentETE.Application\\Interfaces\\Store\\IStoreReadRepository.cs",
+              "ToolTip": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Application\\Interfaces\\Store\\IStoreReadRepository.cs",
+              "RelativeToolTip": "CentETE.Application\\Interfaces\\Store\\IStoreReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T12:47:13.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetStoreByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Application\\Feartures\\Store\\Queries\\GetStoreByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "CentETE.Application\\Feartures\\Store\\Queries\\GetStoreByIdQueryHandler.cs",
+              "ToolTip": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Application\\Feartures\\Store\\Queries\\GetStoreByIdQueryHandler.cs",
+              "RelativeToolTip": "CentETE.Application\\Feartures\\Store\\Queries\\GetStoreByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T12:45:24.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetStoreByIdQuery.cs",
+              "DocumentMoniker": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Application\\Feartures\\Store\\Queries\\GetStoreByIdQuery.cs",
+              "RelativeDocumentMoniker": "CentETE.Application\\Feartures\\Store\\Queries\\GetStoreByIdQuery.cs",
+              "ToolTip": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Application\\Feartures\\Store\\Queries\\GetStoreByIdQuery.cs",
+              "RelativeToolTip": "CentETE.Application\\Feartures\\Store\\Queries\\GetStoreByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T12:43:56.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetStoresQueryHandler.cs",
+              "DocumentMoniker": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Application\\Feartures\\Store\\Queries\\GetStoresQueryHandler.cs",
+              "RelativeDocumentMoniker": "CentETE.Application\\Feartures\\Store\\Queries\\GetStoresQueryHandler.cs",
+              "ToolTip": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Application\\Feartures\\Store\\Queries\\GetStoresQueryHandler.cs",
+              "RelativeToolTip": "CentETE.Application\\Feartures\\Store\\Queries\\GetStoresQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T12:43:17.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetStoresQuery.cs",
+              "DocumentMoniker": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Application\\Feartures\\Store\\Queries\\GetStoresQuery.cs",
+              "RelativeDocumentMoniker": "CentETE.Application\\Feartures\\Store\\Queries\\GetStoresQuery.cs",
+              "ToolTip": "D:\\Test\\src\\CentETE.WebApi\\CentETE.Application\\Feartures\\Store\\Queries\\GetStoresQuery.cs",
+              "RelativeToolTip": "CentETE.Application\\Feartures\\Store\\Queries\\GetStoresQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T12:42:53.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StoreAPIController.cs",
+              "DocumentMoniker": "D:\\Test\\src\\CentETE.WebApi\\CentETE.WebApi\\Controllers\\StoreAPIController.cs",
+              "RelativeDocumentMoniker": "CentETE.WebApi\\Controllers\\StoreAPIController.cs",
+              "ToolTip": "D:\\Test\\src\\CentETE.WebApi\\CentETE.WebApi\\Controllers\\StoreAPIController.cs",
+              "RelativeToolTip": "CentETE.WebApi\\Controllers\\StoreAPIController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T12:42:25.779Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
